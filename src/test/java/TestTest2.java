@@ -29,7 +29,7 @@ public class TestTest2 {
 
     @AfterTest
     public void afterTest() {
-        System.out.println("afterTest");
+        System.out.println("afterTest1");
     }
 
     @BeforeClass
